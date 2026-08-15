@@ -1,0 +1,6 @@
+{
+  "name": "Kanban Board",
+  "description": "A clean, responsive single-page Kanban board with three columns (To do, Doing, Done), native HTML5 drag-and-drop, inline title editing, and local persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
